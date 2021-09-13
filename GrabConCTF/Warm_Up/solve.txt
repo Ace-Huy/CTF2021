@@ -1,0 +1,5 @@
+With this tasks you must be use base64 and base32 :
+
+you must create a loop with 4 times and decode the data by base64 and base32 one by one 
+
+you will recieve the flag : GrabCON{dayuum_s0n!}
