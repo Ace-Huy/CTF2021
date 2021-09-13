@@ -1,0 +1,6 @@
+Use : https://www.dcode.fr/vigenere-cipher
+You will recieve
+
+Hellooooooooo Everyone! Do you know Who am I? my name is smoothman uh...I know very well what you want! 
+If you can decipher this cryptogram, you can get the correct answer. 
+so, flag is HackCTF{v_jvyy_3rzrz0r3_lbh.qba'g_sbetrg_zr_gbb}

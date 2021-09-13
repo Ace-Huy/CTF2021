@@ -1,0 +1,9 @@
+With the hint simple transposition cipher
+
+You can use : https://www.dcode.fr/transposition-cipher
+
+Add the cipher text in the input and key is "PYTHON"
+
+Mode : Write by rows, read by rows
+
+You will see the flag : C1pher_1s_very_1n7eres71n5_123

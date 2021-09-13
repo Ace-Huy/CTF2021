@@ -1,0 +1,5 @@
+Use : https://gchq.github.io/CyberChef/#recipe=From_Binary('Space',8)
+
+Add hoooo.txt into the input you will recieve the flag
+
+Flag : HackCTF{crypto_v2ry_easy_pr0b1em}

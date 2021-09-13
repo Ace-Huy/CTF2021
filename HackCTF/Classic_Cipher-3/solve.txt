@@ -1,0 +1,7 @@
+With this task you can be use the Affline Cipher
+
+Use : https://www.dcode.fr/affine-cipher
+
+Put the cipher.txt in affline decoder and get the flag
+
+Flag : HackCTF{Cl4ss1c_C1pher_1s_very_e4sy_1f91qaf14f}
