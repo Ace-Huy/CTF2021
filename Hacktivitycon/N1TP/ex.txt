@@ -1,0 +1,6 @@
+NINA: Hello! I found a flag, look!
+      249ba4916c7835eed45f89f23ac0ad0c008d5027669497e288b6816b6370bfe069b0a7effc0a
+NINA: But I encrypted it with a very special nonce, the same length as
+      the flag! I heard people say this encryption method is unbreakable!
+      I'll even let you encrypt something to prove it!! What should we encrypt?
+>
