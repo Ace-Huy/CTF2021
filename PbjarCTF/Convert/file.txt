@@ -1,0 +1,7 @@
+666c61677b6469735f69735f615f666c346767675f68317d
+
+See at this message that is hex so we can decode hex to get the flag by: 
+
+https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NjY2YzYxNjc3YjY0Njk3MzVmNjk3MzVmNjE1ZjY2NmMzNDY3Njc2NzVmNjgzMTdk
+
+flag{dis_is_a_fl4ggg_h1}
