@@ -1,0 +1,5 @@
+s~LC_fcfb0>bN
+
+solve this tasks by rot47: https://gchq.github.io/CyberChef/#recipe=ROT47(47)&input=c35MQ19mY2ZiMD5iTg
+
+DO{r07473_m3}
